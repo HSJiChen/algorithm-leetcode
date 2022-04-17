@@ -1,2 +1,2 @@
 # algorithm-leetcode
-The trip for leetcode
+The trip for leetcode.
